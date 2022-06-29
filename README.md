@@ -1,5 +1,8 @@
 ## Hello 👋
-My name is Lee and I'm currently living in Spain. 
-  - I'm nterested in web development and cybersecurity
-  - I’m currently learning Java, HTML5 and CSS3
-- 📫 You can contact me by email: jchongoj@alumnos.unex.es
+My name is Lee and I'm a person who is interested in web development and cybersecurity. 
+## Skills
+  - Some Java coding
+  - Some C coding
+  - Some C++ coding
+## Contact
+Currently, only by email: developer.lee.chong@gmail.com
