@@ -1,8 +1,5 @@
 ## Hello 👋
-My name is Lee and I'm a person who is interested in web development and cybersecurity. 
-## Skills ♣️
-  - Some Java coding
-  - Some C coding
-  - Some C++ coding
+My name is Lee and I'm studying a software engineering at the Polytechnic School of Cáceres. 
+
 ## Contact 📳
-Currently, only by email: developer.lee.chong@gmail.com
+- Email: jchongoj@alumnos.unex.es
